@@ -6,4 +6,4 @@ Es werden große unstrukturierte Datenmengen erfasst und daraus Informationen ge
 In der heutigen Zeit werden inzwischen in nahezu allen Branchen großen Datenmengen erhoben und ausgewertet. Für ein Unternehmen ist ein Data Scientist fast schon unerlässlich, um die Menge an Daten richtig auswerten und nutzen zu können. Zudem werden die erhobenen Daten als das “neue Gold” bezeichnet und die Nachfrage nach Data Scientist(en) ist somit enorm. Vorreiter für die Nutzung dieser Datenmengen sind Unternehmen aus der Automobilbranche und Versicherungen. Später kamen dann Unternehmen aus der Logistikbranche, Gesundheitsbranche und Handelsbranche hinzu. 
 Die folgende Grafik zeigt auf, aus welchen Bereichen sich die Data Science zusammensetzt und welcher dieser Bereiche in entsprechenden Berufsfeldern, Branchen oder Technologien Anwendung findet.
 
-![Graph](../images/DataScience.png) 
+![Graph](../images/DataScientist.png) 
