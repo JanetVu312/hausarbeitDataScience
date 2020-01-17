@@ -6,4 +6,4 @@ Data Mining und Text Mining sind gern genutzte Verfahren, um Datenbestände auto
 
 Ein weiteres interessantes und oft genutztes Verfahren zur Erstellungs von Prognosen mittels Datenanalyse ist Predicitve Analytics. Hierbei wird mit Extrapolation* von bekannten Daten Entwicklungen im Unternehmensumfeld frühzeitig erkannt. 
 
-*Extrapolation steht für die Bestimmung eines  mathematischen Verhaltens über den gesicherten Bereich hinaus 
+**Extrapolation steht für die Bestimmung eines  mathematischen Verhaltens über den gesicherten Bereich hinaus* 
