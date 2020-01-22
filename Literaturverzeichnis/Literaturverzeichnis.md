@@ -52,7 +52,7 @@
 
 [26] https://neo4j.com/developer/get-started/
 
-
+--------
 
 [27] https://www.cio.de/a/was-ein-data-scientist-wirklich-koennen-muss,3577657
 
@@ -62,7 +62,7 @@
 
 [30] https://www.sas.com/de_de/insights/analytics/machine-learning.html
 
-
+--------
 
 [31] https://www.oreilly.com/library/view/learning-spark/9781449359034/ch01.html
  	
