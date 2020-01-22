@@ -53,6 +53,7 @@
 [26] https://neo4j.com/developer/get-started/
 
 
+
 [27] https://www.cio.de/a/was-ein-data-scientist-wirklich-koennen-muss,3577657
 
 [28] https://aws.amazon.com/de/big-data/what-is-big-data/
@@ -60,6 +61,7 @@
 [29] https://www2.deloitte.com/ch/de/pages/strategy-operations/articles/blockchain-explained.html
 
 [30] https://www.sas.com/de_de/insights/analytics/machine-learning.html
+
 
 
 [31] https://www.oreilly.com/library/view/learning-spark/9781449359034/ch01.html
