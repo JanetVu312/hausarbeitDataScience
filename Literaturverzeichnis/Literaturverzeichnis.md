@@ -74,3 +74,37 @@
  	
 [35] https://github.com/nikolaialex/ostfalia_db_2016_hausarbeiten/tree/master/data_science/Jevgeni_Jostin
 
+[36] Data Science Vorlesung von Patrick Baier am 04.07.2019
+ 	
+??? Spark Basics (Adobe Connect Meeting)
+ 		
+??? Spark Data
+ 		
+??? Apache Spark Intro
+ 	
+[37] Data Science Vorlesung von Stefan Edlich am 21.06.2018
+ 	
+??? Adobe 	Connect Meeting
+ 			
+??? Apache Spark Basics (Powerpoint)
+ 		
+[38] Apache Spark Essential Training: https://www.linkedin.com/learning/apache-spark-essential-training/next-steps?u=68873474
+ 	
+[39] Bryan Cafferky, Azure Databricks using Python with PySpark: https://www.youtube.com/watch?v=qYis56u8w4U 
+ 	
+[40] Apache Spark: https://de.wikipedia.org/wiki/Apache_Spark 	 	
+ 	
+[41] https://spark.apache.org/
+ 	
+[42] https://medium.com/big-data-engineering/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3
+ 	
+[43] https://en.wikipedia.org/wiki/Databricks
+ 	
+[44] https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4954928053318020/3029198689315822/167703932442645/latest.html
+ 	
+[45] https://de.wikipedia.org/wiki/MapReduce
+ 	
+[46] https://de.wikipedia.org/wiki/Apache_Hadoop
+
+[47] http://pages.databricks.com/rs/094-YMS-629/images/2016_Spark_Infographic.pdf
+
