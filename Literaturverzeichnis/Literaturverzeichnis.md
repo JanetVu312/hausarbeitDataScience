@@ -52,6 +52,7 @@
 
 [26] https://neo4j.com/developer/get-started/
 
+
 [27] https://www.cio.de/a/was-ein-data-scientist-wirklich-koennen-muss,3577657
 
 [28] https://aws.amazon.com/de/big-data/what-is-big-data/
@@ -59,4 +60,15 @@
 [29] https://www2.deloitte.com/ch/de/pages/strategy-operations/articles/blockchain-explained.html
 
 [30] https://www.sas.com/de_de/insights/analytics/machine-learning.html
+
+
+[31] https://www.oreilly.com/library/view/learning-spark/9781449359034/ch01.html
+ 	
+[32] https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92
+ 	
+[33] https://www.heise.de/developer/artikel/Machine-Learning-mit-Apache-Spark-2-3657735.html?seite=all
+ 	
+[34] https://www.informatik-aktuell.de/entwicklung/methoden/einfuehrung-in-spark-ein-text-mining-projekt.html
+ 	
+[35] https://github.com/nikolaialex/ostfalia_db_2016_hausarbeiten/tree/master/data_science/Jevgeni_Jostin
 
