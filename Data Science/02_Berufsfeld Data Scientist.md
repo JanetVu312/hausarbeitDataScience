@@ -12,6 +12,3 @@ Die folgende Grafik zeigt auf, aus welchen Bereichen sich Data Science zusammens
 
 
 ![Graph](../images/DataScientist.png) 
-
-[](())
-[APIs](./API.md)
